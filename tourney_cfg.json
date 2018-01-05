@@ -1,31 +1,14 @@
 {
-  "name": "2017 PGA Championship",
+  "name": "2018 Sentry Tournament of Champions",
 
   "scores": {
     "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/033/leaderboard-v2mini.json?ts=1502222493324"
+    "url": "https://statdata.pgatour.com/r/016/2018/leaderboard-v2mini.json"
   },
 
   "draftOrder": [
-    "Chris Willett",
-    "Kevin Phillips",
-    "Ben Frizzel",
-    "Adam Morrison",
-    "Jared Robillard",
-    "Matt Hennessey",
-    "Rob Phillips",
-    "Erik Severson",
-    "Jay Fredlund",
-    "Matt Simon",
-    "Graham Snead",
-    "Bo Welch",
-    "Stacy Smith",
-    "Jon Willett",
-    "Chad Larson",
     "Frank Severinghaus",
-    "Jonathan Mullen",
-    "Alex Odle",
-    "Kyle Phillips"
+    "Alex Odle"
   ],
 
   "wgr": {
