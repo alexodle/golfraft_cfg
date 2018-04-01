@@ -1,9 +1,9 @@
 {
-  "name": "2018 Sentry Tournament of Champions",
+  "name": "2018 Shell Houston Open",
 
   "scores": {
     "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/016/2018/leaderboard-v2mini.json"
+    "url": "https://statdata.pgatour.com/r/020/2018/leaderboard-v2mini.json"
   },
 
   "draftOrder": [
