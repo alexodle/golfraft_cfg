@@ -1,14 +1,31 @@
 {
-  "name": "2018 Shell Houston Open",
+  "name": "2018 Masters",
 
   "scores": {
-    "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/020/2018/leaderboard-v2mini.json"
+    "type": "pgatour_field",
+    "url": "https://statdata.pgatour.com/r/014/field.json"
   },
 
   "draftOrder": [
+    "Jared Robillard",
     "Frank Severinghaus",
-    "Alex Odle"
+    "Rob Phillips",
+    "Jon Willett",
+    "Kyle Phillips",
+    "Kevin Phillips",
+    "Ben Frizzel",
+    "Adam Morrison",
+    "Chris Willett",
+    "Chad Larson",
+    "Alex Odle",
+    "Graham Snead",
+    "Matt Hennessey",
+    "Erik Severson",
+    "Jonathan Mullen",
+    "Matt Simon",
+    "Stacy Smith",
+    "Bo Welch",
+    "Jay Fredlund"
   ],
 
   "wgr": {
