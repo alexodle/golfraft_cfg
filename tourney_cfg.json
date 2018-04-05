@@ -2,8 +2,12 @@
   "name": "2018 Masters",
 
   "scores": {
-    "type": "pgatour_field",
-    "url": "https://statdata.pgatour.com/r/014/field.json"
+    "type": "pgatour",
+    "url": "https://statdata.pgatour.com/r/014/2018/leaderboard-v2mini.json",
+    "nameMap": {
+      "Jose Maria Olazabal": "José María Olazábal",
+      "Angel Cabrera": "Ángel Cabrera"
+    }  
   },
 
   "draftOrder": [
