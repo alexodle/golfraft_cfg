@@ -3,7 +3,8 @@
 
   "scores": {
     "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/011/2018/leaderboard-v2mini.json"
+    "url": "https://statdata.pgatour.com/r/011/2018/leaderboard-v2mini.json",
+    "nameMap": {}
   },
 
   "draftOrder": [
