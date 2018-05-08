@@ -1,36 +1,37 @@
 {
-  "name": "2018 Masters",
+  "name": "2018 TPC",
 
   "scores": {
-    "type": "pgatour_field",
-    "url": "https://statdata.pgatour.com/r/014/field.json"
+    "type": "pgatour",
+    "url": "https://statdata.pgatour.com/r/011/2018/leaderboard-v2mini.json"
   },
 
   "draftOrder": [
+    "Jay Fredlund",
+    "Bo Welch",
+    "Matt Simon",
+    "Erik Severson",
+    "Matt Hennessey",
     "Jared Robillard",
+    "Stacy Smith",
+    "Adam Morrison",
     "Frank Severinghaus",
     "Rob Phillips",
+    "Jonathan Mullen",
+    "Kevin Phillips",
+    "Chris Willett",
     "Jon Willett",
     "Kyle Phillips",
-    "Kevin Phillips",
     "Ben Frizzel",
-    "Adam Morrison",
-    "Chris Willett",
-    "Chad Larson",
-    "Alex Odle",
     "Graham Snead",
-    "Matt Hennessey",
-    "Erik Severson",
-    "Jonathan Mullen",
-    "Matt Simon",
-    "Stacy Smith",
-    "Bo Welch",
-    "Jay Fredlund"
+    "Alex Odle",
+    "Chad Larson"
   ],
 
   "wgr": {
     "url": "http://www.owgr.com/en/Ranking.aspx?pageNo=1&pageSize=1000&country=All",
     "nameMap": {
+      "Ted Potter Jr": "Ted Potter, Jr.",
       "Billy Hurley-III": "Billy Hurley III",
       "Charles Howell-III": "Charles Howell III",
       "Giwhan Kim": "Gi-whan Kim",
