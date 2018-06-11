@@ -1,32 +1,32 @@
 {
-  "name": "2018 TPC",
+  "name": "2018 US Open",
 
   "scores": {
     "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/011/2018/leaderboard-v2mini.json",
+    "url": "https://statdata.pgatour.com/r/026/2018/leaderboard-v2mini.json",
     "nameMap": {}
   },
 
   "draftOrder": [
-    "Jay Fredlund",
-    "Bo Welch",
-    "Matt Simon",
-    "Erik Severson",
-    "Matt Hennessey",
-    "Jared Robillard",
-    "Stacy Smith",
-    "Adam Morrison",
-    "Frank Severinghaus",
     "Rob Phillips",
-    "Jonathan Mullen",
     "Kevin Phillips",
-    "Chris Willett",
-    "Jon Willett",
-    "Kyle Phillips",
     "Ben Frizzel",
     "Graham Snead",
-    "Alex Odle",
-    "Chad Larson"
+    "Bo Welch",
+    "Jay Fredlund",
+    "Adam Morrison",
+    "Chris Willett",
+    "Matt Simon",
+    "Erik Severson",
+    "Frank Severinghaus",
+    "Jared Robillard",
+    "Stacy Smith",
+    "Kyle Phillips",
+    "Jonathan Mullen",
+    "Chad Larson",
+    "Matt Hennessey",
+    "Jon Willett",
+    "Alex Odle"
   ],
 
   "wgr": {
