@@ -1,32 +1,32 @@
 {
-  "name": "2018 US Open",
+  "name": "2018 British Open",
 
   "scores": {
     "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/026/2018/leaderboard-v2mini.json",
+    "url": "https://statdata.pgatour.com/r/100/2018/leaderboard-v2mini.json",
     "nameMap": {}
   },
 
   "draftOrder": [
-    "Rob Phillips",
-    "Kevin Phillips",
-    "Ben Frizzel",
-    "Graham Snead",
-    "Bo Welch",
-    "Jay Fredlund",
-    "Adam Morrison",
-    "Chris Willett",
-    "Matt Simon",
-    "Erik Severson",
-    "Frank Severinghaus",
-    "Jared Robillard",
+    "Matt Hennessey",
+    "Jonathan Mullen",
     "Stacy Smith",
     "Kyle Phillips",
-    "Jonathan Mullen",
-    "Chad Larson",
-    "Matt Hennessey",
+    "Kevin Phillips",
+    "Jared Robillard",
+    "Matt Simon",
+    "Ben Frizzel",
+    "Rob Phillips",
+    "Graham Snead",
+    "Frank Severinghaus",
     "Jon Willett",
-    "Alex Odle"
+    "Chris Willett",
+    "Chad Larson",
+    "Alex Odle",
+    "Erik Severson",
+    "Bo Welch",
+    "Jay Fredlund",
+    "Adam Morrison"
   ],
 
   "wgr": {
