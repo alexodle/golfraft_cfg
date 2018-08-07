@@ -1,9 +1,9 @@
 {
-  "name": "2018 British Open",
+  "name": "2018 PGA Championship",
 
   "scores": {
-    "type": "pgatour",
-    "url": "https://statdata.pgatour.com/r/100/2018/leaderboard-v2mini.json",
+    "type": "pgatour_field",
+    "url": "https://statdata.pgatour.com/r/033/field.json",
     "nameMap": {}
   },
 
@@ -55,7 +55,12 @@
       "Tjaart Van Der Walt": "Tjaart van der Walt",
       "Tyrone van Aswegen": "Tyrone Van Aswegen",
       "Yikeun Chang": "Yi Keun Chang",
-      "Younghan Song": "Young-han Song"
+      "Younghan Song": "Young-han Song",
+      "Alexander Bjork": "Alexander Björk",
+      "J.J Spaun": "J.J. Spaun",
+      "Thomas Bjorn": "Thomas Bjørn",
+      "Thorbjorn Olesen": "Thorbjørn Olesen",
+      "Meenwhee Kim": "Whee Kim"
     }
   }
 }
