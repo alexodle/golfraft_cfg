@@ -2,8 +2,8 @@
   "name": "2018 PGA Championship",
 
   "scores": {
-    "type": "pgatour_field",
-    "url": "https://statdata.pgatour.com/r/033/field.json",
+    "type": "pgatour",
+    "url": "https://statdata.pgatour.com/r/033/leaderboard-v2mini.json",
     "nameMap": {}
   },
 
