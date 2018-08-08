@@ -4,7 +4,10 @@
   "scores": {
     "type": "pgatour",
     "url": "https://statdata.pgatour.com/r/033/leaderboard-v2mini.json",
-    "nameMap": {}
+    "nameMap": {
+      "HaoTong Li": "Haotong Li",
+      "Matthew Borchert": "Matt Borchert"
+    }
   },
 
   "draftOrder": [
